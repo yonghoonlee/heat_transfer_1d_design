@@ -17,7 +17,7 @@ python -m pip install dymos
 Install pyoptsparse
 
 ```
-cd build_pyoptsparse_master
+cd build_pyoptsparse-master
 chmod +x build_pyoptsparse.sh
 ./build_pyoptsparse.sh
 ```
